@@ -1,5 +1,5 @@
 /**
- * processing-console-assignment-2-formatting-text-output
+ * pde-graphics-5-sports-league
  * by Sarah
  *
  * This is a project for Comp Sci 10. Go Oilers!
