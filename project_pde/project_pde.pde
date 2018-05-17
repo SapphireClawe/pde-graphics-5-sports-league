@@ -5,8 +5,16 @@
  * This is a project for Comp Sci 10. Go Oilers!
  *
  */
+ 
+ PImage  img;
 
 void setup() {
+  
+  size(800, 400);
+  background(204, 27, 27);
+  
+  img = loadImage("rink.jpg");
+  
   String team1name = "Edmonton Oilers";
   int team1wins = 10;
   int team1losses = 7;
@@ -33,5 +41,7 @@ void setup() {
 }
 
 void draw() {
+  tint(255, 127);
+  image(img, 0, 0);
 
 }
