@@ -41,7 +41,13 @@ void setup() {
 }
 
 void draw() {
-  tint(255, 127);
+  tint(255, 78);
   image(img, 0, 0);
+  
+  
+  
+  textSize(30);
+    fill(0, 0, 0);
+    text("Team            Wins      Losses      Points", 40, 40);
 
 }
