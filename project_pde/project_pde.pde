@@ -52,5 +52,6 @@ void draw() {
   textSize(20);
     text("Edmonton Oilers     10                7                      20", 40, 90);
     text("Vancouver Canucks 4                 13                     8", 40, 120);
+    text("Montreal Canadians12                5                      24", 40, 150);
 
 }
