@@ -50,6 +50,7 @@ void draw() {
     fill(0, 0, 0);
     text("Team            Wins      Losses      Points", 40, 40);
   textSize(20);
-    text("Edmonton Oilers     10                  7                      20", 40, 90);
+    text("Edmonton Oilers     10                7                      20", 40, 90);
+    text("Vancouver Canucks 4                 13                     8", 40, 120);
 
 }
